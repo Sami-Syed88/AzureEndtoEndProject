@@ -1,0 +1,15 @@
+{
+	"name": "myfirstdfproject01",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "037feeb0-87a7-46e0-a60f-4dce3deaafdf",
+		"tenantId": "4d1a61d7-b6a5-4f64-8787-f074f87013ee"
+	}
+}
